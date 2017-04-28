@@ -42,7 +42,7 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-        <div className="app-title">Music Master</div>
+        <div className="app-title">Music Wiki</div>
         <FormGroup>
           <InputGroup>
             <FormControl 
