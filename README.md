@@ -1,5 +1,5 @@
 # Countdown App
-Personal Project. Music library look-up. In progress...
+Personal Project. Music library look-up using Spotify API.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
